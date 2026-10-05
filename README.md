@@ -179,7 +179,7 @@ The expected outcome is that the test suite passes. The exact number of tests ma
 ## 6. Build the Warehouse
 
 ```powershell
-python src\warehouseuild_warehouse.py
+python src\warehouse_build_warehouse.py
 ```
 
 This builds/updates the local DuckDB warehouse using the project's configured data.
