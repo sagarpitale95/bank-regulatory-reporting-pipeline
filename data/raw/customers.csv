@@ -1,0 +1,9 @@
+customer_id,customer_name,country,customer_type
+C001,John Smith,IE,RETAIL
+C002,Jane Brown,IE,RETAIL
+C003,Acme Limited,IE,CORPORATE
+C004,Global Traders Ltd,UK,CORPORATE
+C005,Mumbai Retail Ltd,IN,CORPORATE
+C006,Sarah Wilson,IE,RETAIL
+C007,David Miller,UK,RETAIL
+C008,Tech Solutions Ltd,IE,CORPORATE
